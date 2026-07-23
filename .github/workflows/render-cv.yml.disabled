@@ -1,3 +1,10 @@
+# DISABLED (renamed to .disabled so GitHub Actions ignores it).
+# Reason: al-folio's _data/cv.yml uses JSONResume-style top-level fields
+# (label/image/summary/address) that RenderCV 2.x rejects (extra="forbid"),
+# so this workflow fails with exit code 1 even on the pristine template.
+# The on-site CV page still renders fine from _data/cv.yml without it.
+# To re-enable auto-PDF: rename back to render-cv.yml AND remove those four
+# top-level keys from _data/cv.yml (you'll lose them from the HTML CV too).
 name: Render a CV
 on:
   push:
