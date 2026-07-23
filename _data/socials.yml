@@ -5,7 +5,7 @@ cv_pdf: # TODO: path to your CV PDF, e.g. /assets/pdf/cv.pdf (leave blank to use
 email: you@example.com # TODO: your email address
 orcid_id: # TODO: your ORCID, e.g. 0000-0002-1825-0097
 inspirehep_id: # TODO: your INSPIRE-HEP author ID (physics literature DB); leave blank to hide
-scholar_userid: # TODO: your Google Scholar ID (the string after user= in your Scholar URL); leave blank to hide
+scholar_userid: tnS2Ml8AAAAJ # Google Scholar ID (from scholar.google.com/citations?user=tnS2Ml8AAAAJ)
 github_username: reowszer # TODO: confirm your GitHub username
 # linkedin_username: # TODO: your LinkedIn handle (the part after /in/)
 rss_icon: true # comment this line to hide the RSS icon

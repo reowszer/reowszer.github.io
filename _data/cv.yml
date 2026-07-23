@@ -1,14 +1,14 @@
 cv:
-  name: Reo Name # TODO
-  label: PhD Candidate in Physics # TODO
-  email: you@example.com # TODO
-  location: City, Country # TODO
+  name: Wai Ho Reo Sze
+  label: Physics Researcher # TODO: refine (e.g. PhD Candidate in Physics)
+  email: you@example.com # TODO: your email
+  location: Baltimore, MD, USA
   image: ""
-  summary: PhD candidate in physics working on [your subfield]. # TODO
+  summary: Physics researcher at UMBC working on 2D materials, defects, molecular dynamics, and machine learning. # TODO: refine
 
   social_networks:
     - network: GitHub
-      username: reowszer # TODO
+      username: reowszer # TODO: confirm
     # - network: LinkedIn
     #   username: your-handle
 

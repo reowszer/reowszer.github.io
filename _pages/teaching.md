@@ -2,14 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
-nav_order: 6
-calendar: true
+description: Courses I have taught or assisted, with materials and problem sets.
+nav: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+Courses I have taught or assisted as a teaching assistant. <!-- TODO: edit freely -->
 
 {% include courses.liquid %}
+
+<!-- Optional: to show a Google Calendar of office hours, set `calendar: true` in the
+     front matter above and uncomment the line below with your own calendar id / timezone:
+{% comment %}{% include calendar.liquid calendar_id='you@example.com' timezone='America/Chicago' %}{% endcomment %}
+-->
+

@@ -3,17 +3,17 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Reo # TODO: your first name
-middle_name: # TODO: middle name/initial, or leave blank
-last_name: Name # TODO: your last name
+first_name: Wai Ho Reo
+middle_name:
+last_name: Sze
 contact_note: >
   The best way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD candidate in physics. # TODO: one-line site description (shown in search/meta tags)
+  Wai Ho Reo Sze — physics researcher at UMBC working on 2D materials, defects, molecular dynamics, and machine learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: physics, PhD, academic-website, research # TODO: your research keywords
+keywords: 2D materials, defects, molecular dynamics, machine learning, condensed matter, computational physics
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -121,9 +121,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: Notes # displayed as the heading on the notes page
+blog_description: Lecture notes, derivations, and things I am learning. # TODO: tweak to taste
+permalink: /notes/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -340,8 +340,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Name] # TODO: your last name (used to bold your name in the publication list)
-  first_name: [Reo, R.] # TODO: list name variants, e.g. [Reo, R.] to match "Reo Name" and "R. Name"
+  last_name: [Sze]
+  first_name: [Wai Ho Reo, Wai Ho R., W. H. R., Reo]
 
   style: apa
   locale: en
