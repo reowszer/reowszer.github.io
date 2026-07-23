@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physics researcher, <a href='https://umbc.edu/'>University of Maryland, Baltimore County</a>. <!-- TODO: refine your exact title (e.g. PhD Candidate / Graduate Researcher) -->
+subtitle: Physics researcher, <a href='https://umbc.edu/'>University of Maryland, Baltimore County</a>.
 
 profile:
   align: right
