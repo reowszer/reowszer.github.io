@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06-01 09:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+New preprint on [arXiv](https://arxiv.org/): "Title of your latest work." <!-- TODO: your news -->

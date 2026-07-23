@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate in Physics, <a href='#'>Your University</a>. <!-- TODO: position + institution (link it) -->
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Physics</p>
+    <p>Your University</p>
+    <p>City, Country</p>
+    <!-- TODO: office / department / address, or delete these lines -->
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +23,17 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false # set true if you want a blog; keeps the homepage focused on research for now
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- TODO: Replace everything below with your own bio. This placeholder is tailored for a physics PhD. -->
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a PhD candidate in physics at **Your University**, where I work with [Advisor Name](#) on **[your subfield — e.g. condensed matter theory / high-energy phenomenology / quantum information]**. My research centers on <span>[one sentence: the central question you study and why it matters]</span>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Broadly, I am interested in how [big-picture theme] connects [concept A] and [concept B]. My current work combines [methods — e.g. analytical modeling, large-scale numerical simulation, machine learning] to [what you are trying to understand or predict].
+
+Before joining Your University, I completed my [BSc/MSc] in Physics at [Previous Institution], where I worked on [brief topic].
+
+Feel free to reach out about research or collaborations — my contact details and links to my [publications](/publications/) and [CV](/cv/) are below.
