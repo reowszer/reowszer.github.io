@@ -1,10 +1,10 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: # TODO: path to your CV PDF, e.g. /assets/pdf/cv.pdf (leave blank to use the generated RenderCV one)
+# cv_pdf: /assets/pdf/cv.pdf # IMPORTANT: keep commented until it has a real value — an empty cv_pdf crashes the build (jekyll-socials does '' + nil). Uncomment only after dropping a PDF in assets/pdf/.
 email: you@example.com # TODO: your email address
-orcid_id: # TODO: your ORCID, e.g. 0000-0002-1825-0097
-inspirehep_id: # TODO: your INSPIRE-HEP author ID (physics literature DB); leave blank to hide
+# orcid_id: 0000-0002-1825-0097 # TODO: uncomment and fill your ORCID (empty value makes a broken link)
+# inspirehep_id: # TODO: uncomment and fill your INSPIRE-HEP author ID (empty value makes a broken link)
 scholar_userid: tnS2Ml8AAAAJ # Google Scholar ID (from scholar.google.com/citations?user=tnS2Ml8AAAAJ)
 github_username: reowszer # TODO: confirm your GitHub username
 # linkedin_username: # TODO: your LinkedIn handle (the part after /in/)
