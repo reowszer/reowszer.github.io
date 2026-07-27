@@ -1,4 +1,5 @@
 ---
+published: false # template demo content, hidden from the site (kept as a reference). Remove this line to publish.
 layout: post
 title: a post with bibliography
 date: 2023-07-12 09:56:00-0400

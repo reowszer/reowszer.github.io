@@ -5,6 +5,7 @@ title: people
 description: members of the lab or group
 nav: false
 nav_order: 7
+published: false # hidden: the profiles below are template demo (Einstein). Kept for reference. Set to true once you add real group members.
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

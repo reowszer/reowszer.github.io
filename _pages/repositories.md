@@ -5,6 +5,7 @@ title: repositories
 description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 nav: false
 nav_order: 4
+published: false # hidden: _data/repositories.yml still lists template demo users (torvalds/alshedivat). Set to true after editing that file to your own GitHub profile/repos.
 ---
 
 {% if site.data.repositories.github_users %}

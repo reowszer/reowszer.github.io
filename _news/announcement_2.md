@@ -4,6 +4,7 @@ title: A long announcement with details
 date: 2015-11-07 16:11:00-0400
 inline: false
 related_posts: false
+published: false # demo content, hidden from the site. Kept as a reference example of a long (non-inline) announcement. Set to true (or remove) to publish.
 ---
 
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.

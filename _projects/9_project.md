@@ -1,4 +1,5 @@
 ---
+published: false # template demo content, hidden from the site (kept as a reference). Remove this line to publish.
 layout: page
 title: project 9
 description: another project with an image 🎉

@@ -2,11 +2,12 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of my projects.
 nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
+published: false # hidden: all entries in _projects/ are template demos (project 1-9), so this page is empty. Set to true once you add real projects.
 ---
 
 <!-- pages/projects.md -->

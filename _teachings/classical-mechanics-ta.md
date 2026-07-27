@@ -1,4 +1,5 @@
 ---
+published: false # template demo content, hidden from the site (kept as a reference). Remove this line to publish.
 layout: course
 title: Classical Mechanics (Teaching Assistant)
 description: "TA for the undergraduate classical mechanics course: led weekly problem sessions, graded assignments, and held office hours." # TODO: replace with your real role

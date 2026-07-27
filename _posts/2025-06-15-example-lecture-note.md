@@ -1,4 +1,5 @@
 ---
+published: false # template demo content, hidden from the site (kept as a reference). Remove this line to publish.
 layout: post
 title: "Note: deriving the harmonic oscillator propagator"
 date: 2025-06-15 10:00:00-0000

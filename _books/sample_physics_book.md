@@ -1,4 +1,5 @@
 ---
+published: false # template demo content, hidden from the site (kept as a reference). Remove this line to publish.
 layout: book-review
 title: "Modern Quantum Mechanics"
 author: J. J. Sakurai and Jim Napolitano

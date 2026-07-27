@@ -1,4 +1,5 @@
 ---
+published: false # template demo content, hidden from the site (kept as a reference). Remove this line to publish.
 layout: post
 title: a post with pseudo code
 date: 2024-04-15 00:01:00
