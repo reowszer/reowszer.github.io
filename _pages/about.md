@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Physics researcher, <a href='https://umbc.edu/'>University of Maryland, Baltimore County</a>.
 

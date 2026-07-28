@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /notes/
-title: notes
+title: Notes
 nav: true
 nav_order: 2
 pagination:
